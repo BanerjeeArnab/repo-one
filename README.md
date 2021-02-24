@@ -1,2 +1,3 @@
-# repo-one
-First Attempt
+# Repo Description
+
+Read It!
